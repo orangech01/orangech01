@@ -15,7 +15,7 @@
 <div align="center"> <h1> Contact with me </h1> </div>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/orangech01/"> <img src="https://thumbs.dreamstime.com/b/linkedin-social-media-icon-logo-vector-element-white-background-social-media-logos-suitable-mobile-apps-web-apps-print-142153162.jpg"
+    <a href="https://www.linkedin.com/in/chynara-sharsheeva"> <img src="https://thumbs.dreamstime.com/b/linkedin-social-media-icon-logo-vector-element-white-background-social-media-logos-suitable-mobile-apps-web-apps-print-142153162.jpg"
         alt="alt text" width="50" height="50" border="10"/></a>
     <a href="https://t.me/Oran3"> <img src="https://w7.pngwing.com/pngs/508/998/png-transparent-telegram-computer-icons-logo-android-angle-triangle-monochrome-thumbnail.png"
         alt="alt text" width="50" height="50" border="10"/></a>
